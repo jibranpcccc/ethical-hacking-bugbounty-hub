@@ -1,16 +1,16 @@
 [
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-1",
-    "title": "r/cybersecurity Defense Hub",
+    "title": "r/bugbounty Vulnerability Research & PoCs",
     "platform": "Reddit",
-    "category": "Cybersecurity",
-    "memberCount": "1,100,000+ members",
-    "description": "Primary community for enterprise security analysts, blue teams, compliance frameworks, and threat intelligence.",
-    "joinUrl": "https://www.reddit.com/r/cybersecurity/",
+    "category": "Bug Bounty",
+    "memberCount": "180,000+ members",
+    "description": "Active community for web security researchers, IDOR discoveries, SSRF exploits, and bug bounty methodologies.",
+    "joinUrl": "https://www.reddit.com/r/bugbounty/",
     "tags": [
-      "cybersecurity",
-      "infosec",
-      "soc",
+      "bugbounty",
+      "vulnerability",
+      "idor",
       "reddit"
     ],
     "verified": true,
@@ -18,16 +18,16 @@
   },
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-2",
-    "title": "r/netsec Network Security",
+    "title": "r/ethicalhacking Penetration Testing Guild",
     "platform": "Reddit",
-    "category": "Information Security",
-    "memberCount": "540,000+ members",
-    "description": "Peer-reviewed technical infosec community sharing vulnerability advisories, exploit analysis, and security whitepapers.",
-    "joinUrl": "https://www.reddit.com/r/netsec/",
+    "category": "Ethical Hacking",
+    "memberCount": "410,000+ members",
+    "description": "White-hat security professionals sharing ethical hacking tools, labs, Wireshark traces, and certifications.",
+    "joinUrl": "https://www.reddit.com/r/ethicalhacking/",
     "tags": [
-      "netsec",
-      "infosec",
-      "vulnerabilities",
+      "ethical-hacking",
+      "pentesting",
+      "tools",
       "reddit"
     ],
     "verified": true,
@@ -35,16 +35,16 @@
   },
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-3",
-    "title": "r/ethicalhacking Community",
+    "title": "r/netsec Network Security & Disclosures",
     "platform": "Reddit",
-    "category": "Penetration Testing",
-    "memberCount": "220,000+ members",
-    "description": "Ethical hacking guides, Kali Linux tools, network reconnaissance, and offensive security learning resources.",
-    "joinUrl": "https://www.reddit.com/r/ethicalhacking/",
+    "category": "NetSec",
+    "memberCount": "560,000+ members",
+    "description": "The premier subreddit for technical network security disclosures, exploit write-ups, and vulnerability research.",
+    "joinUrl": "https://www.reddit.com/r/netsec/",
     "tags": [
-      "ethical-hacking",
-      "pentesting",
-      "kali",
+      "netsec",
+      "disclosures",
+      "exploits",
       "reddit"
     ],
     "verified": true,
@@ -52,373 +52,366 @@
   },
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-4",
-    "title": "r/bugbounty Hunters",
+    "title": "r/cybersecurity Defensive & Offensive Ops",
     "platform": "Reddit",
-    "category": "Bug Bounty",
-    "memberCount": "140,000+ members",
-    "description": "Tips, methodologies, writeups, and bounty program discussions for HackerOne and Bugcrowd researchers.",
-    "joinUrl": "https://www.reddit.com/r/bugbounty/",
+    "category": "Cybersecurity",
+    "memberCount": "920,000+ members",
+    "description": "Enterprise security practices, vulnerability triage, incident response, and security architecture.",
+    "joinUrl": "https://www.reddit.com/r/cybersecurity/",
     "tags": [
-      "bugbounty",
-      "hackerone",
-      "websec",
+      "cybersecurity",
+      "infosec",
+      "triage",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-5",
-    "title": "Hack The Box Official Discord",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-5",
+    "title": "r/OSINT Reconnaissance & Asset Discovery",
+    "platform": "Reddit",
+    "category": "OSINT",
+    "memberCount": "190,000+ members",
+    "description": "Subdomain enumeration, ASN mappings, Shodan queries, GitHub secret scanning, and attack surface discovery.",
+    "joinUrl": "https://www.reddit.com/r/OSINT/",
+    "tags": [
+      "osint",
+      "recon",
+      "shodan",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-6",
+    "title": "r/threatintel Threat Profiling & Intel",
+    "platform": "Reddit",
+    "category": "Threat Intel",
+    "memberCount": "38,000+ members",
+    "description": "Adversary TTPs, MITRE ATT&CK enterprise frameworks, threat intelligence feeds, and IOC tracking.",
+    "joinUrl": "https://www.reddit.com/r/threatintel/",
+    "tags": [
+      "threatintel",
+      "mitre",
+      "ioc",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-7",
+    "title": "Bounty Hunters Official Discord",
     "platform": "Discord",
-    "category": "CTF & Labs",
-    "memberCount": "250,000+ members",
-    "description": "Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.",
+    "category": "Bug Bounty",
+    "memberCount": "40,000+ members",
+    "description": "Live bug bounty collaboration, methodology exchange, and scope analysis.",
+    "joinUrl": "https://discord.gg/bugbounty",
+    "tags": [
+      "bugbounty",
+      "hackerone",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-8",
+    "title": "HackTheBox Hacker Community Discord",
+    "platform": "Discord",
+    "category": "HackTheBox",
+    "memberCount": "190,000+ members",
+    "description": "Official Discord server for CTF players, penetration testers, and offensive security researchers.",
     "joinUrl": "https://discord.gg/hackthebox",
     "tags": [
       "hackthebox",
       "ctf",
-      "pentesting",
+      "offensive",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-6",
-    "title": "TryHackMe Official Discord",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-9",
+    "title": "TryHackMe Training Guild Discord",
     "platform": "Discord",
-    "category": "Cybersecurity Education",
-    "memberCount": "210,000+ members",
-    "description": "Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.",
+    "category": "TryHackMe",
+    "memberCount": "140,000+ members",
+    "description": "Interactive cybersecurity learning community, room walkthroughs, OSCP preparation, and challenges.",
     "joinUrl": "https://discord.gg/tryhackme",
     "tags": [
       "tryhackme",
-      "education",
-      "infosec",
+      "oscp",
+      "training",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-7",
-    "title": "Cyber Security News Alerts",
-    "platform": "Telegram",
-    "category": "Threat Intelligence",
-    "memberCount": "115,000+ members",
-    "description": "Immediate alerts on 0-day exploits, CVE disclosures, ransomware attacks, and critical enterprise patches.",
-    "joinUrl": "https://t.me/cybersecurity_news",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-10",
+    "title": "Security Central Discord",
+    "platform": "Discord",
+    "category": "Security",
+    "memberCount": "45,000+ members",
+    "description": "Real-time security operations center chats, zero-day threat tracking, and blue team collaboration.",
+    "joinUrl": "https://discord.gg/security",
     "tags": [
-      "cybersecurity",
-      "telegram",
-      "cve",
-      "threat-intel"
+      "security",
+      "zeroday",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-8",
-    "title": "InfoSec Vulnerability Feeds",
-    "platform": "Telegram",
-    "category": "Vulnerability Research",
-    "memberCount": "48,000+ members",
-    "description": "Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.",
-    "joinUrl": "https://t.me/infosec_alerts",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-11",
+    "title": "Cyber Security Discussions Discord",
+    "platform": "Discord",
+    "category": "Cyber",
+    "memberCount": "35,000+ members",
+    "description": "Community discussing application security, web exploit chains, and security audit tools.",
+    "joinUrl": "https://discord.gg/cyber",
     "tags": [
-      "infosec",
-      "telegram",
-      "exploits",
-      "research"
+      "cyber",
+      "appsec",
+      "audits",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-forum-9",
-    "title": "0x00sec Hacking Community",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-forum-12",
+    "title": "HackTheBox Community Forum",
     "platform": "Forum",
-    "category": "Offensive Security",
-    "memberCount": "90,000+ members",
-    "description": "Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.",
-    "joinUrl": "https://0x00sec.org",
-    "tags": [
-      "0x00sec",
-      "forum",
-      "binary-exploitation",
-      "malware"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-forum-10",
-    "title": "Hack The Box Community Forum",
-    "platform": "Forum",
-    "category": "Penetration Testing",
+    "category": "HackTheBox",
     "memberCount": "350,000+ members",
-    "description": "Vibrant discussion boards for hints on retired machines, certification advice, and offensive tooling.",
+    "description": "Official forum for machine hints, CTF post-mortems, exploit write-ups, and privilege escalation techniques.",
     "joinUrl": "https://forum.hackthebox.com",
     "tags": [
       "hackthebox",
-      "forum",
       "hints",
-      "ctf"
+      "writeups",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-github-11",
-    "title": "OWASP CheatSheet Discussions",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-forum-13",
+    "title": "0x00sec Security Researchers Forum",
+    "platform": "Forum",
+    "category": "Researchers",
+    "memberCount": "85,000+ members",
+    "description": "Technical peer-led cybersecurity research forum covering offensive tooling, defense mechanisms, and cryptography.",
+    "joinUrl": "https://0x00sec.org",
+    "tags": [
+      "0x00sec",
+      "researchers",
+      "infosec",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-github-14",
+    "title": "OWASP Web Application Security Discussions",
     "platform": "GitHub",
-    "category": "AppSec",
-    "memberCount": "65,000+ contributors",
-    "description": "Official community contributions and reviews on OWASP application security best practices.",
+    "category": "OWASP",
+    "memberCount": "100,000+ members",
+    "description": "Official OWASP Cheat Sheet repository discussions on API security, authentication bypasses, and CSRF defense.",
     "joinUrl": "https://github.com/OWASP/CheatSheetSeries/discussions",
     "tags": [
       "owasp",
-      "github",
-      "appsec",
-      "security"
+      "apisecurity",
+      "github"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-12",
-    "title": "r/devops Practitioners Hub",
-    "platform": "Reddit",
-    "category": "DevOps & CI/CD",
-    "memberCount": "460,000+ members",
-    "description": "The center of DevOps culture, automation tooling, CI/CD pipelines, GitOps workflows, and infrastructure as code.",
-    "joinUrl": "https://www.reddit.com/r/devops/",
-    "tags": [
-      "devops",
-      "cicd",
-      "gitops",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-13",
-    "title": "r/kubernetes Cloud Native",
-    "platform": "Reddit",
-    "category": "Container Orchestration",
-    "memberCount": "150,000+ members",
-    "description": "Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.",
-    "joinUrl": "https://www.reddit.com/r/kubernetes/",
-    "tags": [
-      "kubernetes",
-      "k8s",
-      "containers",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-14",
-    "title": "r/docker Containers",
-    "platform": "Reddit",
-    "category": "Containers",
-    "memberCount": "125,000+ members",
-    "description": "Guides, Dockerfile optimization, multi-stage builds, and Docker Compose architectures for modern microservices.",
-    "joinUrl": "https://www.reddit.com/r/docker/",
-    "tags": [
-      "docker",
-      "containers",
-      "microservices",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-15",
-    "title": "r/aws Cloud Architects",
-    "platform": "Reddit",
-    "category": "Cloud Architecture",
-    "memberCount": "320,000+ members",
-    "description": "Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.",
-    "joinUrl": "https://www.reddit.com/r/aws/",
-    "tags": [
-      "aws",
-      "cloud",
-      "architecture",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-16",
-    "title": "DevOps Global Discord",
-    "platform": "Discord",
-    "category": "DevOps & SRE",
-    "memberCount": "68,000+ members",
-    "description": "Real-time engineering chat covering Terraform, Ansible, Prometheus, Kubernetes, and production incident triage.",
-    "joinUrl": "https://discord.gg/devops",
-    "tags": [
-      "devops",
-      "sre",
-      "discord",
-      "monitoring"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-17",
-    "title": "Kubernetes Community Discord",
-    "platform": "Discord",
-    "category": "Container Orchestration",
-    "memberCount": "52,000+ members",
-    "description": "Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.",
-    "joinUrl": "https://discord.gg/kubernetes",
-    "tags": [
-      "kubernetes",
-      "discord",
-      "cloud-native",
-      "devops"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-18",
-    "title": "DevOps & SRE News Channel",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-15",
+    "title": "Infosec Zero-Day & CVE Alerts Telegram",
     "platform": "Telegram",
-    "category": "DevOps & SRE",
-    "memberCount": "54,000+ members",
-    "description": "Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.",
-    "joinUrl": "https://t.me/devops_channel",
+    "category": "Alerts",
+    "memberCount": "62,000+ members",
+    "description": "Direct alerts on newly published CVEs, weaponized exploits, CISA alerts, and dark web leaks.",
+    "joinUrl": "https://t.me/infosec_alerts",
     "tags": [
-      "devops",
       "telegram",
-      "sre",
-      "automation"
+      "cve",
+      "zero-day",
+      "alerts"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-19",
-    "title": "Cloud Native & K8s Network",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-16",
+    "title": "Cybersecurity Real-Time News Telegram",
     "platform": "Telegram",
-    "category": "Cloud Native",
-    "memberCount": "38,000+ members",
-    "description": "Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.",
-    "joinUrl": "https://t.me/cloud_native_hub",
+    "category": "News",
+    "memberCount": "95,000+ members",
+    "description": "Instant notifications on global cyber espionage campaigns, data breaches, and vulnerability exploits.",
+    "joinUrl": "https://t.me/cybersecurity_news",
     "tags": [
-      "cloud-native",
       "telegram",
-      "cncf",
-      "k8s"
+      "news",
+      "breaches",
+      "cybersecurity"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-github-20",
-    "title": "Kubernetes GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Container Orchestration",
-    "memberCount": "140,000+ contributors",
-    "description": "Official GitHub discussions, SIG updates, and architecture debates for Kubernetes core and ecosystems.",
-    "joinUrl": "https://github.com/kubernetes/kubernetes/discussions",
-    "tags": [
-      "kubernetes",
-      "github",
-      "sig",
-      "orchestration"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-forum-21",
-    "title": "HashiCorp Discuss Community",
-    "platform": "Forum",
-    "category": "Infrastructure as Code",
-    "memberCount": "120,000+ members",
-    "description": "Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.",
-    "joinUrl": "https://discuss.hashicorp.com",
-    "tags": [
-      "terraform",
-      "hashicorp",
-      "forum",
-      "iac"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-22",
-    "title": "r/Python Developer Community",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-17",
+    "title": "r/Malware Reverse Engineering & Analysis",
     "platform": "Reddit",
-    "category": "Python Development",
+    "category": "Malware",
+    "memberCount": "115,000+ members",
+    "description": "Malware sample analysis, decompilation, dynamic sandboxing, unpacking techniques, and C2 infrastructure.",
+    "joinUrl": "https://www.reddit.com/r/Malware/",
+    "tags": [
+      "malware",
+      "reverse-engineering",
+      "sandboxing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-18",
+    "title": "r/reverseengineering Assembly & Disassembly",
+    "platform": "Reddit",
+    "category": "Reverse Engineering",
+    "memberCount": "130,000+ members",
+    "description": "Ghidra, IDA Pro, x64dbg workflows, firmware disassembly, binary reversing, and anti-debug bypasses.",
+    "joinUrl": "https://www.reddit.com/r/reverseengineering/",
+    "tags": [
+      "reverse-engineering",
+      "ghidra",
+      "binary",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-19",
+    "title": "r/blueteamsec Defense Evasion Detection",
+    "platform": "Reddit",
+    "category": "Blue Team",
+    "memberCount": "48,000+ members",
+    "description": "Defensive security engineering, Yara rule repositories, Sigma detection rules, and SIEM ingestion pipelines.",
+    "joinUrl": "https://www.reddit.com/r/blueteamsec/",
+    "tags": [
+      "blueteam",
+      "yara",
+      "sigma",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-20",
+    "title": "r/linux Kernel Exploits & Hardening",
+    "platform": "Reddit",
+    "category": "Linux",
+    "memberCount": "1,100,000+ members",
+    "description": "SELinux policies, AppArmor profiles, kernel auditing, and secure system configuration.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
+    "tags": [
+      "linux",
+      "selinux",
+      "hardening",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-21",
+    "title": "r/Python Exploit Scripting & Automation",
+    "platform": "Reddit",
+    "category": "Python",
     "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
+    "description": "Developing custom security scanners with Python, HTTP client automation, and payload generation.",
     "joinUrl": "https://www.reddit.com/r/Python/",
     "tags": [
       "python",
-      "backend",
-      "software-engineering",
+      "automation",
+      "scanners",
       "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-22",
+    "title": "Python Security Scripts Channel",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Curated security scripts, log parsers, and threat intelligence ingestion pipelines.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "python",
+      "security-scripts"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-discord-23",
-    "title": "Python Official Discord",
+    "title": "Python Developers Official Discord",
     "platform": "Discord",
-    "category": "Python Development",
+    "category": "Python Discord",
     "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
+    "description": "Support with Python networking libraries, cryptography modules, and async socket communication.",
     "joinUrl": "https://discord.gg/python",
     "tags": [
       "python",
-      "discord",
-      "code-review",
-      "programming"
+      "networking",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-24",
-    "title": "Python Developers Telegram Channel",
-    "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-24",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Software",
+    "memberCount": "220,000+ members",
+    "description": "Software architecture discussion covering cryptography standards, secure memory handling, and APIs.",
+    "joinUrl": "https://discord.gg/programming",
     "tags": [
-      "python",
-      "telegram",
-      "scripts",
-      "tips"
+      "programming",
+      "cryptography",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-25",
-    "title": "r/programming International",
+    "title": "r/programming Secure Coding Standards",
     "platform": "Reddit",
-    "category": "General Programming",
+    "category": "Programming",
     "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
+    "description": "Industry discussions on software supply chain security, dependency auditing, and safe development.",
     "joinUrl": "https://www.reddit.com/r/programming/",
     "tags": [
       "programming",
-      "engineering",
-      "industry",
+      "secure-coding",
       "reddit"
     ],
     "verified": true,
@@ -426,85 +419,83 @@
   },
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-discord-26",
-    "title": "The Programmer's Hangout",
+    "title": "Devcord Secure Engineering Discord",
     "platform": "Discord",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
+    "category": "DevSecOps",
+    "memberCount": "75,000+ members",
+    "description": "Integrating SAST and DAST scanners into CI/CD pipelines, container auditing, and secrets management.",
+    "joinUrl": "https://discord.gg/devcord",
     "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
+      "devsecops",
+      "sast",
+      "security",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-27",
-    "title": "r/rust Systems Programming",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
-    "tags": [
-      "rust",
-      "systems",
-      "concurrency",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-28",
-    "title": "Rust Programming Language Discord",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-27",
+    "title": "Rust Systems & Memory Safety Discord",
     "platform": "Discord",
-    "category": "Systems Programming",
+    "category": "Rust Safety",
     "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
+    "description": "Building memory-safe system tools and malware sandboxes with Rust.",
     "joinUrl": "https://discord.gg/rust-lang",
     "tags": [
       "rust",
-      "systems",
-      "discord",
-      "compiler"
+      "memory-safety",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-29",
-    "title": "Rust Language News & Updates",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-28",
+    "title": "Rust Security & Systems Telegram",
     "platform": "Telegram",
-    "category": "Systems Programming",
+    "category": "Rust News",
     "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
+    "description": "Weekly deep dives into Rust vulnerability advisories, memory safety guarantees, and systems tools.",
     "joinUrl": "https://t.me/rust_lang_news",
     "tags": [
-      "rust",
       "telegram",
-      "systems",
-      "updates"
+      "rust",
+      "security",
+      "news"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-30",
-    "title": "r/javascript Global Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-29",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "Discussions on enterprise tech infrastructure, data governance, and threat mitigation.",
+    "joinUrl": "https://discord.gg/tech",
     "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
+      "tech",
+      "enterprise",
+      "governance",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-telegram-30",
+    "title": "TechCrunch Cybersecurity Feed",
+    "platform": "Telegram",
+    "category": "Cyber News",
+    "memberCount": "65,000+ members",
+    "description": "Reporting on venture capital funding for cybersecurity intelligence firms and defensive platforms.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "cyber-news",
+      "funding"
     ],
     "verified": true,
     "featured": false
