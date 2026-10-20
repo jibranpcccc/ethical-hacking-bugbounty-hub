@@ -4,10 +4,17 @@
     <title>Bug Bounty &amp; Ethical Hacking Hunters Hub</title>
     <link>https://jibranpcccc.github.io/ethical-hacking-bugbounty-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:03:57 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/ethical-hacking-bugbounty-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ethical-hacking-bugbounty-hub/#ethical-hacking-bugbounty-hub-forum-20261005-1-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:03:57 GMT</pubDate>
+      <description>Newly verified community added to Bug Bounty &amp; Ethical Hacking Hunters Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ethical-hacking-bugbounty-hub/#ethical-hacking-bugbounty-hub-forum-20261005-1-2026-10-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ethical-hacking-bugbounty-hub/#ethical-hacking-bugbounty-hub-discord-20260920-1-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:03:48 GMT</pubDate>
       <description>Newly verified community added to Bug Bounty &amp; Ethical Hacking Hunters Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
-      <link>https://www.reddit.com/r/typescript/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ethical-hacking-bugbounty-hub/#ethical-hacking-bugbounty-hub-reddit-20260919-1-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:02:43 GMT</pubDate>
-      <description>Newly verified community added to Bug Bounty &amp; Ethical Hacking Hunters Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
     </item>
   </channel>
 </rss>
