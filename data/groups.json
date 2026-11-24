@@ -1,5 +1,23 @@
 [
   {
+    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-7",
+    "title": "Bounty Hunters Official Discord",
+    "platform": "Discord",
+    "category": "Bug Bounty",
+    "memberCount": "40,000+ members",
+    "description": "Live bug bounty collaboration, methodology exchange, and scope analysis.",
+    "joinUrl": "https://discord.gg/bugbounty",
+    "tags": [
+      "bugbounty",
+      "hackerone",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "bug-bounty-ethical-hacking-hunters-hub-reddit-6",
     "title": "r/threatintel Threat Profiling & Intel",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -511,23 +529,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "bug-bounty-ethical-hacking-hunters-hub-discord-7",
-    "title": "Bounty Hunters Official Discord",
-    "platform": "Discord",
-    "category": "Bug Bounty",
-    "memberCount": "40,000+ members",
-    "description": "Live bug bounty collaboration, methodology exchange, and scope analysis.",
-    "joinUrl": "https://discord.gg/bugbounty",
-    "tags": [
-      "bugbounty",
-      "hackerone",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "bug-bounty-ethical-hacking-hunters-hub-discord-8",
